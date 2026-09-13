@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=only1mf&fontSize=54&fontColor=f0f6fc&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Systems%20%26%20Security%20Researcher&descAlignY=62&descSize=18&descAlign=50" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=180&section=header&text=only1mf&fontSize=54&fontColor=f0f6fc&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Systems%20%E2%80%A2%20Security%20Research&descAlignY=62&descSize=18&descAlign=50" width="100%" alt="Header Banner" />
 
 <!-- Dynamic Typing Subtitle -->
 <a href="https://github.com/only1mf">
