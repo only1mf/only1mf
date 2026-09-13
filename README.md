@@ -22,16 +22,15 @@
 
 ### 💼 Professional Overview
 
-```ansi
- [1;36m┌──( [1;32monly1mf@workstation [1;36m)-[ [1;34m~ [1;36m] [0m
- [1;36m└─$ [0m neofetch --profile
- [1;34mOS [0m           : Linux / Windows (Kernel & User-Mode)
- [1;34mSpecialties [0m  : Low-Level Systems, Binary Instrumentation & Full-Stack Web
- [1;34mCore Stack [0m   : C++, C#, PHP, JavaScript, Python, Assembly (x86_64)
- [1;34mAnalysis [0m     : IDA Pro, x64dbg, Ghidra, Cheat Engine, Process Hacker
- [1;34mToolchain [0m    : CMake, Git, Visual Studio, Dear ImGui
- [1;34mLanguages [0m    : English (Fluent), Dutch, Slovak, Polish
- [1;34mStatus [0m       : Available for systems architecture, research & collaboration
+```bash
+$ sysinfo --profile
+┌── Identity   : only1mf (CEO)
+├── Focus      : Low-Level Systems, Binary Instrumentation & Full-Stack Web
+├── Core Stack : C++, C#, PHP, JavaScript, Python, Assembly (x86_64)
+├── Analysis   : IDA Pro, x64dbg, Ghidra, Cheat Engine, Process Hacker
+├── Toolchain  : CMake, Git, Visual Studio, Dear ImGui
+├── Languages  : English (Fluent), Dutch, Slovak, Polish
+└── Status     : Available for systems architecture, research & collaboration
 ```
 
 I am a software engineer and security researcher specializing in **low-level systems development**, **binary reverse engineering**, and **full-stack web architecture**. My experience spans writing high-performance native software in C++ and C#, exploring ring-0 Windows kernel drivers, and engineering dynamic web backends and interfaces using PHP, modern JavaScript, semantic HTML5, and CSS3.
